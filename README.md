@@ -120,5 +120,5 @@ painter.start()
 
 **Contact Information:**
 - Owner: [Pratik-1213](https://github.com/Pratik-1213)
-- Email: [pratik@example.com](mailto:pratik@example.com)
+- Email: [pratik@example.com](mailto:kumbharpratik1213@gmail.com)
 ```
